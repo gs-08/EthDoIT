@@ -1,0 +1,1 @@
+export const EthDoItContractAddress = "0xb0f0235c82Dc46F202d8eecfc6B851D1299adA7a"
